@@ -5,8 +5,7 @@
   "relays": {
     "91ce3f31bd9645eff9ff7370d35b27c0ff4f7940a56f4f7b0ba371c7fad247f7": [
       "wss://ca.orangepill.dev",
-      "wss://relay.nostriches.org",
-      ...
+      "wss://relay.nostriches.org"
     ]
   }
 }
